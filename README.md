@@ -1,9 +1,9 @@
 # Object-oriented-programming-project
-Part of 1st-semester object-oriented programming course
-FOOD ORDERING
+Part of the 1st-semester object-oriented programming course
 
-Installations required
+FOOD ORDERING.......................
 
+Installations required:
 Visual Studio Code
 Apache Maven Folder or installing maven from VScode
 Doxygen
@@ -15,7 +15,7 @@ Make sure the maven for Java is installed in Visual Studio code before running t
 Set up the MySQL workbench
 Create the required tables in the database
 Run food.java in Visual Studio Code from the project folder
-For checking the status and change it once the food is delivered from the delivery man side, run the delivery_man.java
+To check the status and change it once the food is delivered from the delivery man side, run the delivery_man.java
 Steps to create a Doxygen file
 
 Install Doxygen
